@@ -1,6 +1,6 @@
 # Paired Minds AI
 
-**Two minds. One shared passion for AI.**
+**Two minds. Shared curiosity.**
 
 Welcome to Paired Minds AI! This is our shared space for AI projects, experiments, and things we've learned along the way.
 
